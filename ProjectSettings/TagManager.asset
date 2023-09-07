@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piso
+  - Distroya
+  - SwitchOLED
+  - ppPlataforma
+  - Door1
+  - Door2
+  - Door3
+  - ExitDoor
+  - BossDoor
+  - enemy
+  - spiky
+  - mini_Boss
+  - laser
+  - powUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pisoxd
+  - Distroya
+  - Climbable
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreskin
+    uniqueID: 719759275
+    locked: 0
+  - name: Forehead
+    uniqueID: 3154766427
+    locked: 0
+  - name: Final lobster
+    uniqueID: 3148917935
+    locked: 0
